@@ -1,0 +1,20 @@
+﻿@model List<Work>
+<div class="row gy-5 g-lg-5 mb-4">
+
+    @foreach (var item in Model)
+    {
+        <!-- Start Recent Work -->
+        <div class="col-md-4 mb-3">
+            <a asp-controller="Work" asp-action="Detail" asp-route-id="@item.Id" class="recent-work card border-0 shadow-lg overflow-hidden">
+                <img class="recent-work-img card-img" src="~/assets/img/@item.Images.FirstOrDefault(m=>m.IsMain).Image" alt="Card image">
+                <div class="recent-work-vertical card-img-overlay d-flex align-items-end">
+                    <div class="recent-work-content text-start mb-3 ml-3 text-dark">
+                        <h3 class="card-title light-300">@item.Title</h3>
+                        <p class="card-text">@item.Description</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+        <!-- End Recent Work -->
+    }
+    </div>

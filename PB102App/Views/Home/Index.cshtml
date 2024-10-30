@@ -1,0 +1,91 @@
+﻿@model HomeVM
+
+<!-- Start Banner Hero -->
+    <div class="banner-wrapper bg-light">
+       @await Component.InvokeAsync("Slider");
+    </div>
+    <!-- End Banner Hero -->
+
+    <!-- Start Service -->
+    <section class="service-wrapper py-3">
+        <div class="container-fluid pb-3">
+            <div class="row">
+                <h2 class="h2 text-center col-12 py-5 semi-bold-600">Services</h2>
+                <div class="service-header col-2 col-lg-3 text-end light-300">
+                    <i class='bx bx-gift h3 mt-1'></i>
+                </div>
+                <div class="service-heading col-10 col-lg-9 text-start float-end light-300">
+                    <h2 class="h3 pb-4 typo-space-line">Make Success for future</h2>
+                </div>
+            </div>
+            <p class="service-footer col-10 offset-2 col-lg-9 offset-lg-3 text-start pb-3 text-muted px-2">
+                You are free to use this template for your commercial or business websites. You are not allowed to re-distribute this template ZIP file on any template collection websites. It is too easy to illegally copy and repost this template.
+            </p>
+        </div>
+
+        <div class="service-tag py-5 bg-secondary">
+            <div class="col-md-12">
+                <ul class="nav d-flex justify-content-center">
+                    <li class="nav-item mx-lg-4">
+                        <a class="filter-btn nav-link btn-outline-primary active shadow rounded-pill text-light px-4 light-300" href="#" data-filter=".project">All</a>
+                    </li>
+                    @foreach (var item in Model.Categories)
+                {
+                    <li class="nav-item mx-lg-4">
+                        <a class="filter-btn nav-link btn-outline-primary rounded-pill text-light px-4 light-300" href="#" data-filter="@("." +item.Id)">@item.Name</a>
+                    </li>
+                }
+                </ul>
+            </div>
+        </div>
+
+    </section>
+
+    <section class="container overflow-hidden py-5">
+        <div class="row gx-5 gx-sm-3 gx-lg-5 gy-lg-5 gy-3 pb-3 projects">
+            @foreach (var item in Model.Works)
+        {
+            <!-- Start Recent Work -->
+            <div class="col-xl-3 col-md-4 col-sm-6 project @item.CategoryId">
+                <a asp-controller="Work" asp-action="Detail" asp-route-id="@item.Id" class="service-work card border-0 text-white shadow-sm overflow-hidden mx-5 m-sm-0">
+                    <img class="service card-img" src="~/assets/img/@item.Images.FirstOrDefault(m=>m.IsMain).Image" alt="Card image">
+                    <div class="service-work-vertical card-img-overlay d-flex align-items-end">
+                        <div class="service-work-content text-left text-light">
+                            <span class="btn btn-outline-light rounded-pill mb-lg-3 px-lg-4 light-300">@item.Category.Name</span>
+                            <p class="card-text">@item.Description</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <!-- End Recent Work -->
+        }
+           
+
+        </div>
+    </section>
+    <!-- End Service -->
+
+    <!-- Start View Work -->
+    <section class="bg-secondary">
+        <div class="container py-5">
+            <div class="row d-flex justify-content-center text-center">
+                <div class="col-lg-2 col-12 text-light align-items-center">
+                    <i class='display-1 bx bxs-box bx-lg'></i>
+                </div>
+                <div class="col-lg-7 col-12 text-light pt-2">
+                    <h3 class="h4 light-300">Great transformations successful</h3>
+                    <p class="light-300">Quis ipsum suspendisse ultrices gravida.</p>
+                </div>
+                <div class="col-lg-3 col-12 pt-4">
+                    <a href="#" class="btn btn-primary rounded-pill btn-block shadow px-4 py-2">View Our Work</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End View Work -->
+
+    <!-- Start Recent Work -->
+    <div class="container mt-2">
+    <partial name="_WorkPartial" model="Model.Works.OrderByDescending(m=>m.Id).Take(6).ToList()" />
+    </div>
+    <!-- End Recent Work -->

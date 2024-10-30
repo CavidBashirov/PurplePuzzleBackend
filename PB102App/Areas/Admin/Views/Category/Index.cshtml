@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Category>
+<div class="container mt-5">
+    <h1 class="text-center">Categories</h1>
+    <div class="create-area">
+        <a asp-action="Create" class="btn btn-success">Create</a>
+    </div>
+    <div class="table-responsive pt-3 mt-3">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>
+                        Name
+                    </th>
+                    <th>
+                        Options
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @item.Name
+                        </td>
+                        <td>
+                            <a asp-action="Detail" asp-route-id="@item.Id" class="btn btn-outline-primary">Detail</a>
+                            <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-outline-secondary">Edit</a>
+                           @*  <form asp-action="Delete" asp-route-id="@item.Id" method="post" class="d-inline">
+                                <button type="submit" class="btn btn-outline-danger">Delete</button>
+                            </form> *@
+
+                            <button type="button" data-id="@item.Id" class="btn btn-outline-danger delete-category">Delete</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

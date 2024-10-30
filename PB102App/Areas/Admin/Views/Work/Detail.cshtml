@@ -1,0 +1,14 @@
+﻿@model SingleWorkVM
+
+<div class="container mt-5">
+    <div class="texts">
+        <h4>Category : @Model.CategoryName </h4>
+        <h4>Title : @Model.Title </h4>
+        <h4>Description : @Model.Description </h4>
+    </div>
+    @foreach (var item in Model.Images)
+    {
+        <img src="~/assets/img/@item.Image" style="width:300px;height:200px; @(item.IsMain ? "border:5px solid yellow":"")" alt="image">
+    }
+    <a asp-action="Index" class="btn btn-primary mt-5 d-block w-25">Back</a>
+</div>
