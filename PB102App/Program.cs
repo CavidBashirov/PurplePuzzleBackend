@@ -16,6 +16,7 @@ builder.Services.AddScoped<ISliderService, SliderService>();
 builder.Services.AddScoped<ISliderImageService, SliderImageService>();
 builder.Services.AddScoped<IWorkService, WorkService>();
 builder.Services.AddScoped<ILayoutService, LayoutService>();
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
 var app = builder.Build();
 

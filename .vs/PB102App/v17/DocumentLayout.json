@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|c:\\users\\javid\\onedrive\\desktop\\code\\pb102\\aspnet\\pb102app\\pb102app\\areas\\admin\\views\\work\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|solutionrelative:pb102app\\areas\\admin\\views\\work\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|c:\\users\\javid\\onedrive\\desktop\\code\\pb102\\aspnet\\pb102app\\pb102app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|solutionrelative:pb102app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|c:\\users\\javid\\onedrive\\desktop\\code\\pb102\\aspnet\\pb102app\\pb102app\\viewmodels\\admin\\work\\singleworkvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|solutionrelative:pb102app\\viewmodels\\admin\\work\\singleworkvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|c:\\users\\javid\\onedrive\\desktop\\code\\pb102\\aspnet\\pb102app\\pb102app\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|solutionrelative:pb102app\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|c:\\users\\javid\\onedrive\\desktop\\code\\pb102\\aspnet\\pb102app\\pb102app\\areas\\admin\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|solutionrelative:pb102app\\areas\\admin\\controllers\\workcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|c:\\users\\javid\\onedrive\\desktop\\code\\pb102\\aspnet\\pb102app\\pb102app\\wwwroot\\assets\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|solutionrelative:pb102app\\wwwroot\\assets\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|c:\\users\\javid\\onedrive\\desktop\\code\\pb102\\aspnet\\pb102app\\pb102app\\services\\workservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|solutionrelative:pb102app\\services\\workservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|c:\\users\\javid\\onedrive\\desktop\\code\\pb102\\aspnet\\pb102app\\pb102app\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|solutionrelative:pb102app\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|c:\\users\\javid\\onedrive\\desktop\\code\\pb102\\aspnet\\pb102app\\pb102app\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|solutionrelative:pb102app\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|c:\\users\\javid\\onedrive\\desktop\\code\\pb102\\aspnet\\pb102app\\pb102app\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|solutionrelative:pb102app\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|c:\\users\\javid\\onedrive\\desktop\\code\\pb102\\aspnet\\pb102app\\pb102app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|solutionrelative:pb102app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|c:\\users\\javid\\onedrive\\desktop\\code\\pb102\\aspnet\\pb102app\\pb102app\\viewmodels\\basketdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3937B4A2-69A2-45E6-9AC1-5F4C5A98803B}|PB102App\\PB102App.csproj|solutionrelative:pb102app\\viewmodels\\basketdetailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,76 +38,103 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\Areas\\Admin\\Views\\Work\\Detail.cshtml",
-              "RelativeDocumentMoniker": "PB102App\\Areas\\Admin\\Views\\Work\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\Areas\\Admin\\Views\\Work\\Detail.cshtml",
-              "RelativeToolTip": "PB102App\\Areas\\Admin\\Views\\Work\\Detail.cshtml",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA0AAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-30T08:32:31.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WorkService.cs",
-              "DocumentMoniker": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\Services\\WorkService.cs",
-              "RelativeDocumentMoniker": "PB102App\\Services\\WorkService.cs",
-              "ToolTip": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\Services\\WorkService.cs",
-              "RelativeToolTip": "PB102App\\Services\\WorkService.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAABJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T08:26:25.702Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\Mappings\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "PB102App\\Mappings\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\Mappings\\MappingProfile.cs",
-              "RelativeToolTip": "PB102App\\Mappings\\MappingProfile.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "PB102App\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\Controllers\\CartController.cs",
+              "RelativeToolTip": "PB102App\\Controllers\\CartController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwCsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T08:24:06.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SingleWorkVM.cs",
-              "DocumentMoniker": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\ViewModels\\Admin\\Work\\SingleWorkVM.cs",
-              "RelativeDocumentMoniker": "PB102App\\ViewModels\\Admin\\Work\\SingleWorkVM.cs",
-              "ToolTip": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\ViewModels\\Admin\\Work\\SingleWorkVM.cs",
-              "RelativeToolTip": "PB102App\\ViewModels\\Admin\\Work\\SingleWorkVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T08:21:15.731Z",
+              "WhenOpened": "2024-11-04T07:45:44.545Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WorkController.cs",
-              "DocumentMoniker": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\Areas\\Admin\\Controllers\\WorkController.cs",
-              "RelativeDocumentMoniker": "PB102App\\Areas\\Admin\\Controllers\\WorkController.cs",
-              "ToolTip": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\Areas\\Admin\\Controllers\\WorkController.cs",
-              "RelativeToolTip": "PB102App\\Areas\\Admin\\Controllers\\WorkController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T07:39:51.848Z",
+              "Title": "custom.js",
+              "DocumentMoniker": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\wwwroot\\assets\\js\\custom.js",
+              "RelativeDocumentMoniker": "PB102App\\wwwroot\\assets\\js\\custom.js",
+              "ToolTip": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\wwwroot\\assets\\js\\custom.js",
+              "RelativeToolTip": "PB102App\\wwwroot\\assets\\js\\custom.js",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwCYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-04T08:24:09.182Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PB102App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PB102App\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwA4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T08:23:52.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PB102App\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PB102App\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T08:23:22.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PB102App\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PB102App\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:14:05.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "PB102App\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "PB102App\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwBwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T08:11:37.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasketDetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\ViewModels\\BasketDetailVM.cs",
+              "RelativeDocumentMoniker": "PB102App\\ViewModels\\BasketDetailVM.cs",
+              "ToolTip": "C:\\Users\\javid\\OneDrive\\Desktop\\Code\\PB102\\AspNet\\PB102App\\PB102App\\ViewModels\\BasketDetailVM.cs",
+              "RelativeToolTip": "PB102App\\ViewModels\\BasketDetailVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:57:03.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

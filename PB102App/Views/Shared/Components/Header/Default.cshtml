@@ -1,9 +1,9 @@
-﻿@model Dictionary<string,string>
+﻿@model HeaderVM
 <!-- Header -->
 <nav id="main_nav" class="navbar navbar-expand-lg navbar-light bg-white shadow">
     <div class="container d-flex justify-content-between align-items-center">
         <a class="navbar-brand h1" asp-controller="Home" asp-action="Index">
-            <img src="~/assets/img/@Model["HeaderLogo"]" style="width:120px;height:80px" />
+            <img src="~/assets/img/@Model.Settings["HeaderLogo"]" style="width:120px;height:80px" />
         </a>
         <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-toggler-success" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -31,7 +31,7 @@
             </div>
             <div class="navbar align-self-center d-flex">
                 <a class="nav-link" href="#"><i class='bx bx-bell bx-sm bx-tada-hover text-primary'></i></a>
-                <a class="nav-link" href="#"><i class='bx bx-cog bx-sm text-primary'></i></a>
+                <a class="nav-link" asp-controller="Cart" asp-action="Index"><i style="font-size: 25px;" class="fa-solid fa-cart-plus"></i><span class="cart-count">@Model.BasketCount</span></a>
                 <a class="nav-link" href="#"><i class='bx bx-user-circle bx-sm text-primary'></i></a>
             </div>
         </div>

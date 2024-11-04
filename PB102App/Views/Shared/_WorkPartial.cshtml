@@ -11,9 +11,12 @@
                     <div class="recent-work-content text-start mb-3 ml-3 text-dark">
                         <h3 class="card-title light-300">@item.Title</h3>
                         <p class="card-text">@item.Description</p>
+                        <h3 class="card-title light-300">@item.Price ₼</h3>
+                        
                     </div>
                 </div>
             </a>
+            <button data-id="@item.Id" class="btn btn-success add-to-basket mt-2 text-white">Add basket</button>
         </div>
         <!-- End Recent Work -->
     }

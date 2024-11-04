@@ -6,6 +6,7 @@ C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\bin\Debug\ne
 C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\bin\Debug\net6.0\PB102App.runtimeconfig.json
 C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\bin\Debug\net6.0\PB102App.dll
 C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\bin\Debug\net6.0\PB102App.pdb
+C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\bin\Debug\net6.0\Humanizer.dll
 C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\bin\Debug\net6.0\MessagePack.dll
 C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\bin\Debug\net6.0\MessagePack.Annotations.dll
@@ -231,6 +232,7 @@ C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\obj\Debug\ne
 C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\obj\Debug\net6.0\PB102App.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\obj\Debug\net6.0\PB102App.RazorAssemblyInfo.cache
 C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\obj\Debug\net6.0\PB102App.RazorAssemblyInfo.cs
+C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\obj\Debug\net6.0\PB102App.sourcelink.json
 C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\obj\Debug\net6.0\staticwebassets\msbuild.PB102App.Microsoft.AspNetCore.StaticWebAssets.props
@@ -245,4 +247,3 @@ C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\obj\Debug\ne
 C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\obj\Debug\net6.0\PB102App.pdb
 C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\obj\Debug\net6.0\PB102App.genruntimeconfig.cache
 C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\obj\Debug\net6.0\ref\PB102App.dll
-C:\Users\javid\OneDrive\Desktop\Code\PB102\AspNet\PB102App\PB102App\bin\Debug\net6.0\AutoMapper.dll

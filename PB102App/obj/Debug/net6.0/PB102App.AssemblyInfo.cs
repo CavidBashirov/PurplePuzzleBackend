@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PB102App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a3a548fd9fe951bf26bebd5bf304de2b3888a87")]
 [assembly: System.Reflection.AssemblyProductAttribute("PB102App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PB102App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

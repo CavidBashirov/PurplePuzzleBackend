@@ -1,0 +1,46 @@
+﻿@model List<BasketDetailVM>
+
+<div class="container mt-3">
+    @if(Model.Count != 0)
+    {
+        <h1 class="text-center">Works</h1>
+        <div class="cart-table mt-2">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Image</th>
+                        <th scope="col">Title</th>
+                        <th scope="col">Count</th>
+                        <th scope="col">Total</th>
+                        <th scope="col">Options</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                <img src="~/assets/img/@item.Image" style="width:100px;height:100px" />
+                            </td>
+                            <td>@item.Title</td>
+                            <td>@item.WorkCount</td>
+                            <td>@item.Total ₼</td>
+                            <td>
+                                <button class="btn btn-outline-danger">Delete</button>
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+            <h1 class="text-end">Grand Total: @Model.Sum(m => m.Total) ₼</h1>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-warning text-center" role="alert">
+            Cart is empty
+        </div>
+    }
+
+</div>
